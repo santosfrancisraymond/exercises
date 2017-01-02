@@ -27,11 +27,17 @@ import au.com.amaysim.utilities.PromoCodeFinderUtility;
  * 
  *         Does assert tests based on Software Engineering Test.pdf.
  * 
- *         To run ShoppingCartTest.java 
- *         
- *         -> add products.csv and promos.csv to the home folder
- *         ->  
- *         -> Run As a JUnit Test
+ *         To run ShoppingCartTestJUnit.java
+ * 
+ *         -> make sure products.csv and promos.csv are in the home folder 
+ *         -> Run ShoppingCartTestJUnit.java as a JUnit Test
+ * 
+ * 			Steps:
+ * 
+ *         -> Import the whole project 
+ *         -> Go to the home folder of the project, go to src/au/com/amaysim/test 
+ *         -> Right Click ShoppingCartTestJUnit.java 
+ *         -> Run as JUnit Test
  * 
  * 
  */

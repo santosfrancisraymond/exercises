@@ -25,10 +25,26 @@ import au.com.amaysim.utilities.PromoCodeFinderUtility;
  * 
  *         Does assert tests based on Software Engineering Test.pdf.
  * 
- *         To run ShoppingCartTest.java
+ *         To run ShoppingCartTestPSVM.java
+ *         
+ *         Option 1
  * 
- *         -> add products.csv and promos.csv to the home folder -> -> Run As a
- *         JUnit Test
+ *         -> make sure products.csv and promos.csv are in the same folder as ShoppingCartTestPSVM.jar  
+ *         -> java -jar ShoppingCartTestPSVM.jar
+ *         
+ *         Option 2 
+ *         
+ *         -> Import the whole project
+ *         -> Go to the home folder of the project, go to src/au/com/amaysim/test
+ *         -> Right Click ShoppingCartTestPSVM.java
+ *         -> Run as Java Application
+ *         
+ *         Option 3 
+ *         
+ *         -> Import the whole project
+ *         -> Go to the home folder of the project, go to src/au/com/amaysim/test
+ *         -> Right Click ShoppingCartTestJUnit.java
+ *         -> Run as JUnit Test
  * 
  * 
  */
